@@ -3135,6 +3135,22 @@ body {
   display: inline-flex;
 }
 
+.btn-bg-facebook {
+  background-color: #3b5998;
+}
+
+.btn-bg-twitter {
+  background-color: #55acee;
+}
+
+.btn-bg-instagram {
+  background-color: #E1306C;
+}
+
+.btn-bg-whatsapp {
+  background-color: #25d366;
+}
+
 .btn-twitter {
   color: #55acee;
 }
