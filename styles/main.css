@@ -3151,12 +3151,12 @@ body {
   color: #344e86;
 }
 
-.btn-google {
-  color: #dd4b39;
+.btn-whatsapp {
+  color: #25d366;
 }
 
-.btn-google:hover, .btn-google:focus, .btn-google:active {
-  color: #d73925;
+.btn-whatsapp:hover, .btn-whatsapp:focus, .btn-whatsapp:active {
+  color: #25d366;
 }
 
 .btn-linkedin {
